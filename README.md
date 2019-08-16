@@ -15,5 +15,5 @@ docker pull injcristianrojas/sonarqube-java-security
 Then launch using 
 
 ```shell
-docker run -p ''9000:9000' -p '9092:9092' injcristianrojas/sonarqube-java-security
+docker run -p 9000:9000 -p 9092:9092 injcristianrojas/sonarqube-java-security
 ```
