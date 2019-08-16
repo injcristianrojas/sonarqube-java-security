@@ -1,8 +1,9 @@
 # SonarQube image with Java scanners added
 
-For the time being, this comes with
-[OWASP Dependency Check](https://github.com/SonarSecurityCommunity/dependency-check-sonar-plugin)
-included.
+For the time being, this includes:
+
+* [OWASP Dependency Check](https://github.com/SonarSecurityCommunity/dependency-check-sonar-plugin)
+* [FindBugs + Find-Sec-Bugs](https://github.com/find-sec-bugs/find-sec-bugs/wiki/Sonar-Qube-Tutorial)
 
 # Usage
 
